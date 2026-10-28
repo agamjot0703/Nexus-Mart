@@ -1,0 +1,9 @@
+# id "name" "category" price stock
+101 "Mechanical Keyboard" "Electronics" 2499 10
+102 "Gaming Mouse" "Electronics" 1299 20
+103 "USB-C Hub" "Accessories" 899 8
+104 "Laptop Stand" "Accessories" 1499 6
+105 "Wireless Headphones" "Audio" 3299 10
+106 "Webcam 1080p" "Electronics" 2199 7
+107 "Desk Mat" "Accessories" 499 25
+108 "Portable SSD 1TB" "Storage" 6499 5

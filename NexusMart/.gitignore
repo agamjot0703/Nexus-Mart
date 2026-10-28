@@ -1,0 +1,9 @@
+# Build outputs
+nexus_mart
+nexus_mart.exe
+build/
+cmake-build-*/
+
+# Temporary persistence files
+data/*.tmp
+data/*.bak

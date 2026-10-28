@@ -1,0 +1,2 @@
+# id customerId "date" "payment" "status" subtotal discount itemCount [items...]
+5001 2 "2026-10-29 02:44" "Cash on Delivery" "PLACED" 4998 0 1 101 "Mechanical Keyboard" "Electronics" 2499 2
